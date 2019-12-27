@@ -112,4 +112,3 @@ text.grid( row = 0 , column = 1 )
 
 root.mainloop()
 
-# port Tanimlama
