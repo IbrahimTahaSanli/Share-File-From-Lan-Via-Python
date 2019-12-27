@@ -120,3 +120,6 @@ sendbutton = Button(root , text = Text1 , command = Client.SendFile )
 sendbutton.grid(row=0,column=1)
 
 root.mainloop()
+
+print()
+print()
